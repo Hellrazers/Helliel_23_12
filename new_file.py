@@ -1,4 +1,4 @@
-MY_NAME = "John"
-MY_AGE = 25
+MY_NAME = "John +1"
+MY_AGE = 25123
 MY_LOCATION = "New York"
-version = 3.0
+version = 1.0
