@@ -1,2 +1,2 @@
-new_string = 123
+new_string = "some string here"
 new_version = 2
