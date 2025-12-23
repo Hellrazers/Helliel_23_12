@@ -1,1 +1,2 @@
-MY_NAME = "John Doe"
+MY_NAME = "John"
+MY_AGE = 25
